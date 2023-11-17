@@ -25,7 +25,7 @@
 
 #### Contact:
 ###### _I'm open to collaborating on exciting projects! If you have a cool idea or need assistance with something,_ 
-###### _feel free to reach out. Let's work together to create amazing things!_ 🐈
+###### _feel free to reach out_ 🐈
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/angelsmithl/)
