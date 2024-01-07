@@ -32,6 +32,10 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:angelsmithlgs@gmail.com)
 
 
+ About me: _I recently transitioned from a background in digital marketing to pursue a career in development. While I have a strong interest in backend work, I find my skills are particularly well-suited for frontend development. Exploring the full-stack path appeals to me, given the diverse opportunities it offers._
+
+ _You'll quickly discover my passion for both cats and coffee (and videogames!). If you share these interests, we could have some delightful conversations about them! :P_
+
 
 
 
