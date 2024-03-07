@@ -23,18 +23,27 @@
   </h7>
 </div>
 
-#### Contact:
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=angelsmithlgs&theme=modern-lilac2&border_radius=5&card_width=500" alt="GitHub Streak">
+  </a>
+</p>
+
+
+
+ About me: _I recently transitioned from a background in digital marketing to pursue a career in development. While I have a strong interest in backend work, I find my skills are particularly well-suited for frontend development. Exploring the full-stack path appeals to me, given the diverse opportunities it offers._
+
+ _You'll quickly discover my passion for both cats and coffee (and videogames!). If you share these interests, we could have some delightful conversations about them! :P_
+
+ #### Contact:
 ###### _I'm open to collaborating on exciting projects! If you have a cool idea or need assistance with something,_ 
 ###### _feel free to reach out_ 🐈
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/angelsmithl/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:angelsmithlgs@gmail.com)
-
-
- About me: _I recently transitioned from a background in digital marketing to pursue a career in development. While I have a strong interest in backend work, I find my skills are particularly well-suited for frontend development. Exploring the full-stack path appeals to me, given the diverse opportunities it offers._
-
- _You'll quickly discover my passion for both cats and coffee (and videogames!). If you share these interests, we could have some delightful conversations about them! :P_
 
 
 
