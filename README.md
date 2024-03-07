@@ -3,11 +3,17 @@
 </div>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*_nTGrEkwvXxxmcHY.gif" alt="Animación de mi proyecto">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*_nTGrEkwvXxxmcHY.gif" alt="michi">
 </p>
-<div><i>Full Stack Developer with experience in digital strategies, specialized in data analysis and optimization.</i></div>
 <div>
-<b>Specialty Coffee Dealer 👀☕</b></div>
+  
+<p align="center">
+  <b>Currently working at:</b>
+  <br>
+  <img src="https://avatars.githubusercontent.com/u/158210424?s=200&v=4" alt="CIB" width="50">
+</p>
+
+<hr style="border: 0.5px solid #ddd; width: 50%;">
 
 <div id=header align=center>
   <h5>Stack:</h5>
@@ -23,15 +29,13 @@
   </h7>
 </div>
 
-
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=angelsmithlgs&theme=modern-lilac2&border_radius=5&card_width=500" alt="GitHub Streak">
   </a>
 </p>
 
-
+<hr style="border: 0.5px solid #ddd; width: 50%;">
 
  About me: _I recently transitioned from a background in digital marketing to pursue a career in development. While I have a strong interest in backend work, I find my skills are particularly well-suited for frontend development. Exploring the full-stack path appeals to me, given the diverse opportunities it offers._
 
