@@ -10,7 +10,7 @@
 <b>Specialty Coffee Dealer 👀☕</b></div>
 
 <div id=header align=center>
-  <h5>Skills:</h5>
+  <h5>Stack:</h5>
 </div> 
 
 <div>
