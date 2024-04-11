@@ -37,9 +37,13 @@
 
 <hr style="border: 0.5px solid #ddd; width: 50%;">
 
- About me: _I recently transitioned from a background in digital marketing to pursue a career in development. While I have a strong interest in backend work, I find my skills are particularly well-suited for frontend development. Exploring the full-stack path appeals to me, given the diverse opportunities it offers._
+ <a> About me: _I believe in Cats Supremacy_ </a>
+ 
+<sup> *And remember, who needs a cup of coffee when you can have a cup of tofu? Just kidding, <br>
+pass the coffee and let's pretend we never had that thought! Unless, of course, it's a **tofu-flavored latte**
+<br>then we're in trouble!* </sup>
 
- _You'll quickly discover my passion for both cats and coffee (and videogames!). If you share these interests, we could have some delightful conversations about them! :P_
+
 
  #### Contact:
 ###### _I'm open to collaborating on exciting projects! If you have a cool idea or need assistance with something,_ 
