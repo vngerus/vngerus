@@ -23,7 +23,7 @@
   <h7>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,angular,vite,nextjs,idea,vscode,bootstrap,docker,mysql,gcp,postman,figma,xd&perline=6" />
+        <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,angular,vite,nextjs,idea,vscode,tailwind,bootstrap,mysql,gcp,postman,figma,xd&perline=6" />
       </a>
     </p>
   </h7>
