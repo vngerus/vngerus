@@ -30,11 +30,17 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vngerus&theme=modern-lilac2&border_radius=5&card_width=500" alt="GitHub Streak">
+  <a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vngerus&theme=midnight-purple&hide_border=true" alt="vngerus's GitHub Stats" /> 
   </a>
 </p>
 
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vngerus&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="vngerus's GitHub Stats" />
+  </a>
+  </p>
+  
 <hr style="border: 0.5px solid #ddd; width: 50%;">
 
  <a> About me: _I believe in Cats Supremacy_ </a>
@@ -53,22 +59,3 @@ pass the coffee and let's pretend we never had that thought! Unless, of course, 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/angelsmithl/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:angelsmithlgs@gmail.com)
 
-
-
-
-
-
-<!--
-**AngelSmithlgs/AngelSmithlgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
