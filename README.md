@@ -6,28 +6,24 @@
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*_nTGrEkwvXxxmcHY.gif" alt="michi">
 </p>
 <div>
-  
-<p align="center">
-  <b>Currently working at:</b>
-  <br>
-  <img src="https://avatars.githubusercontent.com/u/158210424?s=200&v=4" alt="CIB" width="50">
-</p>
 
 <hr style="border: 0.5px solid #ddd; width: 50%;">
 
 <div id=header align=center>
-  <h5>Stack:</h5>
+  <h5>STACK:</h5>
 </div> 
 
 <div>
   <h7>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,angular,vite,nextjs,idea,vscode,tailwind,bootstrap,mysql,gcp,postman,figma,xd&perline=6" />
+        <img src="https://skillicons.dev/icons?i=ts,js,tailwind,react,vite,java,html,css,postman,figma&perline=5" />
       </a>
     </p>
   </h7>
 </div>
+
+<hr style="border: 0.5px solid #ddd; width: 50%;">
 
 <p align="center">
   <a>
